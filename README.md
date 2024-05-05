@@ -5,5 +5,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ## Requirements 🛠️
 
-- LazyVim
 - LazyGit
